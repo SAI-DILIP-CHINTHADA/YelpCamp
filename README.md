@@ -16,7 +16,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code
 <pre><code>
-git clone https://github.com/himanshup/yelpcamp.git
+git clone https://github.com/SAI-DILIP-CHINTHADA/YelpCamp.git
 cd yelpcamp
 npm install
 </code></pre>
