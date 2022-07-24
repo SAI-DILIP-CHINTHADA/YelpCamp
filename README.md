@@ -7,7 +7,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 
 <li>Users can create, edit, and remove campgrounds</li>
 <li>Users can review campgrounds once, and edit or remove their review</li>
-<li>User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their<pre><code>profile or delete their account</code></pre></li>
+<li>User profiles include more information on the user (full name, email, phone, join date), their campgrounds, and the option to edit their profile or delete their account</li>
 <li>Search campground by name or location</li>
 <li>Sort campgrounds by highest rating, most reviewed, lowest price, or highest price</li>
 
